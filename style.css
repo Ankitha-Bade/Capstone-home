@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Chewy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+*{
+    background-color: #a8efff;
+}
+
+.bar ul{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    border: 1px black solid;
+    font-size: 30px;
+    font-family: 'Amatic SC', cursive;
+    background-color: #9affd3;
+}
+
+.button{
+    height: 30px;
+    width: 50px;
+    color: #c1f6b9;
+}
+
+#name{
+    color: #0e00fe;
+    font-family: 'Chewy', cursive;
+    text-align: center;
+    font-size: 30px;
+}
+
+#why h1{
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Pacifico', cursive;
+    color: #5e8ded;
+}
+
+#why p{
+    font-size: 20px;
+    font-family: 'Pacifico', cursive;
+    color:#4d82ed;
+}
